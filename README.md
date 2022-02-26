@@ -1,1 +1,5 @@
-# fetching-imdb-data
+# Fetching IMDB Data
+
+## Libraries
+
+* rvest
