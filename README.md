@@ -8,6 +8,8 @@
 * dplyr
 * tidyverse
 
+## About the dataset
+
 It is an end-to-end project. The main goal is  to practise on the web scraping using ´rvest´ package.
 The ´Best Picture Winning´ category from the [IMDB](https://www.imdb.com/search/title/?groups=best_picture_winner&view=advanced) is the main source. The dataset includes 50 movies from different years. To make web scraping, the open source software [Selector Gadget](https://selectorgadget.com) extension is used.
 
